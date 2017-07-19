@@ -1,0 +1,7 @@
+model\Posts.class
+glue\PostOperations.class
+model\Comments.class
+runner\RunCukesTest.class
+glue\OtherOperations.class
+steps\OperationSteps.class
+glue\GetOperations.class
